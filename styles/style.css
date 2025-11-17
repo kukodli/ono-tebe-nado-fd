@@ -126,9 +126,7 @@
 }
 
 .bet-button {
-  border: none;
   border: 1px solid white;
-  padding: 0;
   padding: 12px 32px 11px 31px;
   color: #fff;
   font-family: 'Raleway', sans-serif;
@@ -210,6 +208,7 @@
   font-size: 20px;
   font-style: normal;
   line-height: 23px;
+  text-underline-offset: 5px;
 }
 
 .card__title {
@@ -227,14 +226,6 @@
   font-weight: 400;
   font-size: 20px;
   line-height: 120%;
-}
-
-.lots__look-more-link {
-  margin-left: 40px;
-  color: #000;
-  font-weight: 400;
-  font-size: 20px;
-  text-underline-offset: 5px;
 }
 
 .about {
